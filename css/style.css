@@ -140,7 +140,11 @@
     }
 
     .carousel-caption h1 {
-        font-size: 30px;
+        font-size: 23px;
+        font-weight: 600 !important;
+    }
+    .carousel-caption h6 {
+        font-size: 23px;
         font-weight: 600 !important;
     }
 }
